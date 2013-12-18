@@ -1,8 +1,0 @@
-Creating the Directory inside the Assingment by
-
--- mkdir public_html
-
-Creating readme.txt by
-
--- cd public_html
---  vi readme.txt
